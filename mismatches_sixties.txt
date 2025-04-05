@@ -1,0 +1,280 @@
+Clip: common_voice_en_42218903.mp3
+Actual: In which sentence is The Past Perfect used correctly?
+Predicted:  In which sentence use the pass-perfect use correctly?
+
+Clip: common_voice_en_41986247.mp3
+Actual: Four class types are common to all factions; infantry, heavy weapon, sniper and engineer.
+Predicted:  Forecast types are common to all factions in front of your heavy weapon, sleeper and engineer.
+
+Clip: common_voice_en_42462880.mp3
+Actual: Broonsie" when introducing "Jacob's Ladder.
+Predicted:  T Oldies'opia and Coastal Adah!
+
+Clip: common_voice_en_42411735.mp3
+Actual: These cases have been heard in both Israel and in other countries.
+Predicted:  These cases have been heard in both Israel and other countries.
+
+Clip: common_voice_en_42401148.mp3
+Actual: Ironically, it was banned in Egypt for portraying Fagin too sympathetically.
+Predicted:  Ironically, it was banned in Egypt for portraying Fagan too sympathetically.
+
+Clip: common_voice_en_41986248.mp3
+Actual: Cerv, Maris and Mantle were roommates for most of that year.
+Predicted:  Serbs, Marisa, Mantry, were roommates for most of that year.
+
+Clip: common_voice_en_42462842.mp3
+Actual: He also served as a Director for Hatfield Community Free School.
+Predicted:  He has his herbs as a director for Hanfield Community Free School.
+
+Clip: common_voice_en_41982669.mp3
+Actual: The player who scores during this extra time is given the overtime goal.
+Predicted:  The player who scored during this extra time is given the over-tank goal.
+
+Clip: common_voice_en_42251265.mp3
+Actual: Aislaby is in the Stockton district and its nearest police station is in Yarm.
+Predicted:  As Lavy is in the Stockton district and his nearest police station is in Darm.
+
+Clip: common_voice_en_42160858.mp3
+Actual: Lansdowne Centre mall was built on a horse racing track originally called Lansdowne Park.
+Predicted:  Landstown Center Mall was built on a horse racing track originally called Landstown Park.
+
+Clip: common_voice_en_42462868.mp3
+Actual: The parish includes Biggin, Friden, Heathcote, Newhaven and Pikehall.
+Predicted:  The parish includes Beans, Fiend, His Code, New Haven and Bag Hall.
+
+Clip: common_voice_en_42588975.mp3
+Actual: Later, he also gets his hand chopped off by a curved blade.
+Predicted:  Later, he also gets his hand chopped off by a cold blade.
+
+Clip: common_voice_en_41982474.mp3
+Actual: He went to the supervisor to formally request a job.
+Predicted:  He went to this plant for many request exercises.
+
+Clip: common_voice_en_42219032.mp3
+Actual: They are reportedly good mouse hunters.
+Predicted:  A ediyor importantly with MAbage Hunter sofit
+
+Clip: common_voice_en_42469234.mp3
+Actual: Lowry then asked official Josh Tiven to constrain Horwitz.
+Predicted:  Lowy then ask the official George Stephen to constraint Harwoods.
+
+Clip: common_voice_en_42469266.mp3
+Actual: The date?
+Predicted:  You think?
+
+Clip: common_voice_en_42462797.mp3
+Actual: Made those children play really quite splendidly.
+Predicted:  and play really quite splendidly.
+
+Clip: common_voice_en_42251368.mp3
+Actual: Scouting came to the United States a short time later.
+Predicted:  Scouting came to the United States a short time leader.
+
+Clip: common_voice_en_42629009.mp3
+Actual: As a result, dispatchers had to go back to old pen-and-paper methods.
+Predicted:  As I resolved, these pictures had to go back to all pain and paper missiles.
+
+Clip: common_voice_en_41982462.mp3
+Actual: Four unincorporated places in Manitoba are designated as hamlets.
+Predicted:  for incorporated places in Manitoba, all is needed as hamlets.
+
+Clip: common_voice_en_41982450.mp3
+Actual: The other location is in neighboring Joliet.
+Predicted:  The official isn't in the boring joy.
+
+Clip: common_voice_en_42251217.mp3
+Actual: For added difficulty, do not reshuffle the deck should you run out of cards.
+Predicted:  or adding difficulty do not release sharply that this should your railout of cards.
+
+Clip: common_voice_en_42219098.mp3
+Actual: A change in control of Bayan requires certain regulatory approvals.
+Predicted:  By all required, certainly regulatory approvals.
+
+Clip: common_voice_en_42629151.mp3
+Actual: There are a number of trekking routes through the jungle.
+Predicted:  There are a number of trekking roads through the jungle.
+
+Clip: common_voice_en_42218894.mp3
+Actual: It is usually installed right behind the throttle valve in the throttle body.
+Predicted:  It is usually inside right behind the throat valve in the throttle body.
+
+Clip: common_voice_en_42469208.mp3
+Actual: Cheaper varieties of Dianhong produce a darker brownish brew that can be very bitter.
+Predicted:  Shipper, varieties of Dianne Home produce a dark brownish blue that can be very bitter.
+
+Clip: common_voice_en_42589475.mp3
+Actual: A section between Ayer's Cliff and North Hatley is also no longer open.
+Predicted:  A section between Ayers' Gift, a North Hatway South is no longer open.
+
+Clip: common_voice_en_42358841.mp3
+Actual: His running-mate was Howard Phillips.
+Predicted:  His running mate was Howard Phillips.
+
+Clip: common_voice_en_42469271.mp3
+Actual: The video also includes a brief cameo by Fishbone lead singer, Angelo Moore.
+Predicted:  The video also includes a brief camo by fish, one lead singer, Angel Amur.
+
+Clip: common_voice_en_42251813.mp3
+Actual: East York is home to baseball organizations such as East York and Topham Park.
+Predicted:  It's your is home to baseball organizations such as Isdok and to Hum Park.
+
+Clip: common_voice_en_42218800.mp3
+Actual: Our family dynamic is filled with love, laughter, and understanding.
+Predicted:  Our family in America is filled with love, love, and understanding.
+
+Clip: common_voice_en_41982667.mp3
+Actual: On the same boat, a foresail tack is clipped to the deck and forestay.
+Predicted:  On the same boat, a four-wheeled say-tack is gripping to the deck on first day.
+
+Clip: common_voice_en_42462856.mp3
+Actual: The Valiant project was terminated.
+Predicted:  The volume project was terminated.
+
+Clip: common_voice_en_42218862.mp3
+Actual: The run is now an annual charity event.
+Predicted:  The run is now a general charity event.
+
+Clip: common_voice_en_41986276.mp3
+Actual: The episode also reveals that Fat Tony's wife was whacked by 'natural causes'.
+Predicted:  The episode also revolves that Funtonis White was workhead my natural course.
+
+Clip: common_voice_en_41982488.mp3
+Actual: All in all I think the first one would be the better option.
+Predicted:  All in all I see in the first one will be the better option.
+
+Clip: common_voice_en_42218633.mp3
+Actual: Apple Car Play and Android Auto are also standard interior amenities.
+Predicted:  Up all core play and Android Auto are also standard interior amenities.
+
+Clip: common_voice_en_41986221.mp3
+Actual: Their live shows included swinging baseball bats and singing to recorded music.
+Predicted:  The relief shows include swimming in baseballs, bats and singing to record a music.
+
+Clip: common_voice_en_42589061.mp3
+Actual: She had an identical twin, Harriet, and an older brother, Evans.
+Predicted:  She had an identical dream, hardwood, and an older brother, evens.
+
+Clip: common_voice_en_42219170.mp3
+Actual: The species it represents has been extinct in the United Kingdom since prehistoric times.
+Predicted:  As persons it represents husband as think in the United Kingdom since prehistoric times.
+
+Clip: common_voice_en_42251904.mp3
+Actual: This year it won both the Big Book and Book of the Year awards.
+Predicted:  This year it won't boss the big book on book of the year awards.
+
+Clip: common_voice_en_41982491.mp3
+Actual: It was grown and cultivated in China during ancient times.
+Predicted:  It was cold and cultivated in China during ancient times.
+
+Clip: common_voice_en_42251315.mp3
+Actual: Buffy shows up to stop Glory from draining the energy from Dawn.
+Predicted:  Oofies, show up to stop blurry from drawing in the energy from down.
+
+Clip: common_voice_en_42251860.mp3
+Actual: Subsequently, he took a more critical attitude towards the war, from a socialist position.
+Predicted:  Subsequently, he took a more critical act to joward the world from a socialist position.
+
+Clip: common_voice_en_41992283.mp3
+Actual: Conversely, every Polish space is homeomorphic to a G-subset of the Hilbert cube.
+Predicted:  Conversely, everybody's space is on my homomorphic 2D subset of the Gilbert Q.
+
+Clip: common_voice_en_42588874.mp3
+Actual: The exact structure of the system varies somewhat between the five classes of echinoderm.
+Predicted:  The exact structure of the system varies somewhat between the five clasps of achy-notherm.
+
+Clip: common_voice_en_42462747.mp3
+Actual: The number of people who earn their living in these activities is increasing.
+Predicted:  The number of people who heard they are leaving these activities is increasing.
+
+Clip: common_voice_en_42124000.mp3
+Actual: Poorer people are not so nice as those who are well off.
+Predicted:  Poor people are not so nice as those who are well off.
+
+Clip: common_voice_en_42680228.mp3
+Actual: He was educated at Merchant Taylors' School, and at Saint John's College, Oxford.
+Predicted:  He was educated at Merchant Taylor School and at St. John's College, Oxford.
+
+Clip: common_voice_en_42219026.mp3
+Actual: Slaughterhouse guest featured Eminem's seventh album "Recovery" on the bonus track "Session One".
+Predicted:  They're sl måsteer and nodes on stringicular
+
+Clip: common_voice_en_41986335.mp3
+Actual: All other programmes came from the Wooton Bassett studios at the Lime Kiln.
+Predicted:  Our other programs came from the wooden bassit studio Zankil.
+
+Clip: common_voice_en_42629887.mp3
+Actual: The first editor was James Paton, a Christian Socialist.
+Predicted:  The first editor was James Patel, a Christian socialist.
+
+Clip: common_voice_en_42251707.mp3
+Actual: The overwhelming consensus of intelligence professionals is that torture produces unreliable information.
+Predicted:  The overwhelming consensus of Delegance Professional is that torture produced under legal information.
+
+Clip: common_voice_en_42680129.mp3
+Actual: Carson took second place, losing by one dollar.
+Predicted:  Carson took second place losing by $1.
+
+Clip: common_voice_en_42629178.mp3
+Actual: She attended Korea Nazarene University where she majored in Practical Music.
+Predicted:  She attended Korean Ascension University, where she married in practical music.
+
+Clip: common_voice_en_42251582.mp3
+Actual: The entire circumference is about a mile and a half.
+Predicted:  then everything becomes clear to the talk on the办auer.
+
+Clip: common_voice_en_42469345.mp3
+Actual: Eventually Raffles found the island of Singapore.
+Predicted:  Eventually, Dufferl's found the Iceland of Singapore.
+
+Clip: common_voice_en_42462914.mp3
+Actual: It has representatives over much of the world, including the tropics.
+Predicted:  Aida has represented that heaps over much of the world in peeling the tropics.
+
+Clip: common_voice_en_42358896.mp3
+Actual: In addition to scientific erudition, value orientations are another important component of pedagogical culture.
+Predicted:  In addition to scientific air addition, value orientations are another important component of pedagogical culture.
+
+Clip: common_voice_en_41982664.mp3
+Actual: The process reduced the number of seats on rows by one.
+Predicted:  The professed reviews the number of seats on roads by one.
+
+Clip: common_voice_en_42387393.mp3
+Actual: The road also forms the northern boundary of Capitol State Forest in Thurston County.
+Predicted:  The road also forms the northern boundary of capital state forest in Thurston County.
+
+Clip: common_voice_en_42251680.mp3
+Actual: Stelling was brought up in a council house in Hartlepool.
+Predicted:  Stilling was brought up in a construction house in Hartelburg.
+
+Clip: common_voice_en_42218716.mp3
+Actual: The interior of the hotel will be furnished with various Versace collections.
+Predicted:  The interior of the hotel will be furnished with various web size collectors.
+
+Clip: common_voice_en_42628866.mp3
+Actual: It is written in perl by Morten Brix Pedersen.
+Predicted:  It is written in followed by Morten Bricks Pedersen.
+
+Clip: common_voice_en_42251687.mp3
+Actual: It mostly flowers in November and December.
+Predicted:  8 months left for our 1st November on December
+
+Clip: common_voice_en_42436992.mp3
+Actual: Del Pennino was anyway elected senator on Forza Italia's list.
+Predicted:  Del Pignino was any way elected senator on Fortza Italia's list.
+
+Clip: common_voice_en_42251878.mp3
+Actual: He then turned to coaching in the semi-pro and amateur ranks.
+Predicted:  He then turned it to coaching in the semi-pro and a material ramps.
+
+Clip: common_voice_en_42387599.mp3
+Actual: The village church has always been part of the parish of Vergeletto.
+Predicted:  The village church has always been part of the parish of Vergilletto.
+
+Clip: common_voice_en_42588938.mp3
+Actual: Bitcoin joined the United States dollar as the second official currency of El Salvador.
+Predicted:  Bitcoin joined the United States dollar and the second official currency of Preciador.
+
+Clip: common_voice_en_41992211.mp3
+Actual: He was then interred on Eretoka.
+Predicted:  He was then Torridon Eritukah.
+

@@ -1,0 +1,204 @@
+Clip: common_voice_en_42479104.mp3
+Actual: Travis, Mic, and Josh all have glowing, red eyes and move in staggered motions.
+Predicted:  Travis, Mick and Josh all have glowing red eyes and move in staggered motions.
+
+Clip: common_voice_en_42543655.mp3
+Actual: She is recognized for her contributions to the field of haptics.
+Predicted:  She is recognized for contributions to the field of haptics.
+
+Clip: common_voice_en_42550635.mp3
+Actual: He addressed her in these letter as "My dear child".
+Predicted:  He addressed her in these letters as my dear child.
+
+Clip: common_voice_en_42681139.mp3
+Actual: Black Star ninjas ambush Joe, who defeats all of them.
+Predicted:  Blackstone and his ambushed you who defeats all of them.
+
+Clip: common_voice_en_42527902.mp3
+Actual: Rituals can include religious ceremonies, social celebrations, and rites of passage.
+Predicted:  Rituals can include religious ceremonies, social celebrations, and rights of passage.
+
+Clip: common_voice_en_42691987.mp3
+Actual: Freda is full of admiration for Wilbraham and he impulsively proposes.
+Predicted:  Brewerder is full at minutes, stretching forward, down, and he impossibly closes.
+
+Clip: common_voice_en_42348360.mp3
+Actual: He also operated his own private school.
+Predicted:  He also operating his own private school.
+
+Clip: common_voice_en_42360410.mp3
+Actual: The city of New Rockford is served by New Rockford-Sheyenne Public School.
+Predicted:  The City of New Rockford is served by New Rockford Shain public school.
+
+Clip: common_voice_en_42528029.mp3
+Actual: The larvae live in the rhizomes of "Leucanthemum vulgare".
+Predicted:  The larvae live in randoms of like a little week sent to immune full-gair.
+
+Clip: common_voice_en_42543617.mp3
+Actual: The anti-Semitic Noontide Press distributed "Pawns in the Game" for many years.
+Predicted:  The anti-Semitic noon tight press distributed pawns in the game for many years.
+
+Clip: common_voice_en_42479059.mp3
+Actual: The mast is also sparingly equipped externally.
+Predicted:  The mess is also sparingly equipped externally.
+
+Clip: common_voice_en_42517400.mp3
+Actual: Inhabitants of Dinan are called "dinannais" and "dinannaises".
+Predicted:  Inhabitants of Denan are called Denanis and Denanisese.
+
+Clip: common_voice_en_42527912.mp3
+Actual: He was given a warning for the tackle.
+Predicted:  He was giving a warning for the tackle.
+
+Clip: common_voice_en_42528530.mp3
+Actual: The Prime Minister is the commander-in-chief of the Ethiopian National Defense Force.
+Predicted:  The Prime Minister is a Commander-in-Chief of the Ethiopian National Defense Force.
+
+Clip: common_voice_en_42528509.mp3
+Actual: However, Wendy is assigned to Kyle while Stan is paired with Bebe.
+Predicted:  However, Wendy is assigned a Kyle while Stan is paired with the BB.
+
+Clip: common_voice_en_42348120.mp3
+Actual: Workstation can be used for high-speed calculations by a group of people.
+Predicted:  Workstation can be used for high speed calculations by a group of people.
+
+Clip: common_voice_en_42527967.mp3
+Actual: The theorem will be proved if the range of the above map is closed.
+Predicted:  The theorem will be provided if the range of the above map is closed.
+
+Clip: common_voice_en_42455510.mp3
+Actual: The airplane soared high above the clouds.
+Predicted:  Their lens sword hive above the clouds.
+
+Clip: common_voice_en_41985798.mp3
+Actual: The second stage has vectoring nozzles, to provide necessary flight trajectory control.
+Predicted:  The second stage is back during nozzles to provide necessary flight trajectory control.
+
+Clip: common_voice_en_42527878.mp3
+Actual: Knob Creek bourbon has won a number of accolades from Spirit ratings organizations.
+Predicted:  Nob Creek Bourbon has won a number of accolades from spirit-raiding organizations.
+
+Clip: common_voice_en_42479139.mp3
+Actual: The reaction and control system is based on cold gas thrusters.
+Predicted:  The reaction in control of some is based on cold gas thrusters.
+
+Clip: common_voice_en_42348524.mp3
+Actual: Liga license.
+Predicted:  League of Legends
+
+Clip: common_voice_en_42348365.mp3
+Actual: Thomas' gift of prophecy is linked to his poetic ability.
+Predicted:  Thomas's gift of prophecy is linked to his poetic ability.
+
+Clip: common_voice_en_42479128.mp3
+Actual: Its chairman and chief executive is Sir David Li.
+Predicted:  Its chairman and chief executive is Sir David Lee.
+
+Clip: common_voice_en_42488103.mp3
+Actual: The best months for climbing in terms of favorable weather are June through September.
+Predicted:  The best ones for climbing in terms of favorable weather are June through September.
+
+Clip: common_voice_en_42527929.mp3
+Actual: Woodin cardinals are important in descriptive set theory.
+Predicted:  Wooden Cardinals are important in descriptive set theory.
+
+Clip: common_voice_en_42517406.mp3
+Actual: A siding was built for the Ilwaco Mill and Lumber Company.
+Predicted:  A siding was built for the Iwako Mail and lumber company.
+
+Clip: common_voice_en_42527970.mp3
+Actual: In September, Beyer changed her mind.
+Predicted:  In September, Bayer changed her mind.
+
+Clip: common_voice_en_42479025.mp3
+Actual: This helps reduce human error and improves overall safety.
+Predicted:  This helps reduce human error and improve overall safety.
+
+Clip: common_voice_en_42360368.mp3
+Actual: Traditionally, the sausage contained brains, though this is usually no longer the case.
+Predicted:  Traditionally, the sausage contained brains, so this is usually no longer the case.
+
+Clip: common_voice_en_42527835.mp3
+Actual: Kong did not receive any Academy Awards nominations.
+Predicted:  Kong did not receive any Academy Award nominations.
+
+Clip: common_voice_en_42413109.mp3
+Actual: Walters was interred at the Fort Leavenworth National Cemetery, Fort Leavenworth, Kansas.
+Predicted:  Walters was interred at the Fort Levinworth National Cemetery for Levinworth, Kansas.
+
+Clip: common_voice_en_42681117.mp3
+Actual: He was a cautious man, and wisely saved his estate for future generations.
+Predicted:  He was a cautious man and wise he saved his estate for future generations.
+
+Clip: common_voice_en_42498926.mp3
+Actual: Residents are returning as beaches and condominiums in the area are being repaired.
+Predicted:  Restants are returning as species and condemoniums in the area are being repaired.
+
+Clip: common_voice_en_42528614.mp3
+Actual: Bessborough Gardens in London is named after Lord Bessborough.
+Predicted:  Bestboro Gardens in London is named after Lord Bestboro.
+
+Clip: common_voice_en_42479080.mp3
+Actual: In addition, the district offers both junior high- and high school-level alternative programs.
+Predicted:  In addition, the district offers both junior high and high school level alternative programs.
+
+Clip: common_voice_en_42511583.mp3
+Actual: Sprints can vary in focus.
+Predicted:  Sprint Convarian Focus
+
+Clip: common_voice_en_42555824.mp3
+Actual: It sounded like that, was the admission.
+Predicted:  I sounded like that was your mission.
+
+Clip: common_voice_en_42543623.mp3
+Actual: As Provoost had resigned, Moore was elected rector.
+Predicted:  As provost has resigned, Moore was elected director.
+
+Clip: common_voice_en_42348283.mp3
+Actual: It is now a floating museum in Battleship Cove, Fall River, Massachusetts.
+Predicted:  It is now a floating museum and battleship cove fall river Massachusetts.
+
+Clip: common_voice_en_42498914.mp3
+Actual: Ambassador in Canberra.
+Predicted:  Ambassador in Camberra.
+
+Clip: common_voice_en_42360367.mp3
+Actual: A caboose museum in Mullens celebrates the history of the railroad in the region.
+Predicted:  A caboose museum in Mullins celebrates the history of the railroad in the region.
+
+Clip: common_voice_en_42479018.mp3
+Actual: Judges have some incentives to err on the side of granting restraining orders.
+Predicted:  Judges have some incentives to earn on the side of granting restraining orders.
+
+Clip: common_voice_en_42543965.mp3
+Actual: He arrives at the Garden of the gods, a paradise full of jewel-laden trees.
+Predicted:  He arrives at the garden of the gods, a paradise full of jewel laden trees.
+
+Clip: common_voice_en_42348696.mp3
+Actual: At least nine of the civilians were killed by security forces.
+Predicted:  At least 9 of the civilians were killed by security forces.
+
+Clip: common_voice_en_42528546.mp3
+Actual: It contains ground veal, ground pork, and fresh garlic stuffed into hog casings.
+Predicted:  It contains ground-veal, ground pork, and fresh garlic stuffed in the hog casings.
+
+Clip: common_voice_en_42543609.mp3
+Actual: Les Inrockuptibles is routinely nicknamed "Les Inrocks".
+Predicted:  Less in-recapables is retaining nickname Less in-rocks.
+
+Clip: common_voice_en_42479019.mp3
+Actual: Mitchell and Company owned two other distilleries, including Springbank Distillery.
+Predicted:  Michoyan Company owned two other distilleries, including Springbank distillery.
+
+Clip: common_voice_en_42479060.mp3
+Actual: The Court unanimously upheld Whitney's conviction.
+Predicted:  The court unanimously abhelt with these convictions.
+
+Clip: common_voice_en_42498923.mp3
+Actual: It was the final volume edited by Edward Stratemeyer before his death.
+Predicted:  It was the final volume edited by Edward Straitmeyer before his death.
+
+Clip: common_voice_en_42348437.mp3
+Actual: Both the Nightingale and Wilkins's Buntings are found nowhere else in the world.
+Predicted:  Both the Nightingale and Wilkins Buntings are found nowhere else in the world.
+

@@ -1,0 +1,304 @@
+Clip: common_voice_en_42484077.mp3
+Actual: It is also available via autoweek dot com and on the iPad.
+Predicted:  It is also available with autoweak.com and on the high pad.
+
+Clip: common_voice_en_42513112.mp3
+Actual: Initially, William did well, securing most of the county by the end of May.
+Predicted:  Ensure Shari will not let the brain wash, thus it will succumb to a biasing health of May.
+
+Clip: common_voice_en_42484055.mp3
+Actual: In this sentence, the syntactical stylistic device used is enumeration.
+Predicted:  In this sentence, the syntactical stylistic device used is an admiration.
+
+Clip: common_voice_en_42513151.mp3
+Actual: Before and after her time in Babyshambles, Clarke toured with the Suffrajets.
+Predicted:  Before I got her time in baby shambles, Clark turret with suffragets.
+
+Clip: common_voice_en_42484026.mp3
+Actual: The foundation is funded almost exclusively by Sigma Chi's alumni.
+Predicted:  The foundation is founded almost exclusively by Sigma Chi, column name.
+
+Clip: common_voice_en_42135051.mp3
+Actual: Sarah is also very funny and has an incredible sense of humor.
+Predicted:  Sala is also very funny and has a incredible blue sense of horror.
+
+Clip: common_voice_en_41995686.mp3
+Actual: Realism is a means, not an end.
+Predicted:  Realism is a means not a land.
+
+Clip: common_voice_en_42513200.mp3
+Actual: It occurs mostly in middle aged adults.
+Predicted:  It's okay, mostly in middle aged adults.
+
+Clip: common_voice_en_42484130.mp3
+Actual: According to their policy, the resulting revenues should be allocated to social security spending.
+Predicted:  According to the policies resulting in revenues should be allocated to the social security spending.
+
+Clip: common_voice_en_42484356.mp3
+Actual: Doug carries Carol to the hospital where she recovers.
+Predicted:  Duke carries carol to the hospital where she recovers.
+
+Clip: common_voice_en_41995697.mp3
+Actual: The nearby Lake of Caldonazzo is the source of the Brenta River.
+Predicted:  The nearby lake of Caldonato is the source of the Brenta River.
+
+Clip: common_voice_en_42134965.mp3
+Actual: I leave my fish and aquarium to South Coast Tropical Fish Society.
+Predicted:  I have my fish and aquarium to South Coast Tourmica Fish Society.
+
+Clip: common_voice_en_42513288.mp3
+Actual: The fruit is a dry achene.
+Predicted:  The froze door is a dry again.
+
+Clip: common_voice_en_42513131.mp3
+Actual: He freezes the other characters so that they do not interfere.
+Predicted:  If we see the C.O.G.R. characters, for one they do not interfere.
+
+Clip: common_voice_en_41995703.mp3
+Actual: Second Life vehicles typically act like real world vehicles only in superficial ways.
+Predicted:  Second life vehicles typically act like real-world vehicles only in sufficient ways.
+
+Clip: common_voice_en_42483924.mp3
+Actual: As Black Rod, Willcocks oversaw the Queen Mother's lying-in-state at Westminster Hall.
+Predicted:  As Black Rout, Wilcox oversold the Queen Mother's laying in state at Whitminster Hall.
+
+Clip: common_voice_en_42621193.mp3
+Actual: Asprilla failed to score in the tournament.
+Predicted:  Asprile failed to score in the tournament.
+
+Clip: common_voice_en_42619182.mp3
+Actual: It also featured Martin Gore playing acoustic guitar.
+Predicted:  It is also featured Martin Gore playing acoustic guitar.
+
+Clip: common_voice_en_42513111.mp3
+Actual: Short continued to portray Grimley on "Saturday Night Live" and in various other appearances.
+Predicted:  for watching YouTube to portray Greenlee on Saturday night live and in various other Rings Day
+
+Clip: common_voice_en_42513152.mp3
+Actual: The group needs as much water as we can get before night.
+Predicted:  The group needs a smoker as we can get before night.
+
+Clip: common_voice_en_42513304.mp3
+Actual: For the aim may simply be to promote stability in force structures.
+Predicted:  All of them may be equal to promote stability in full forward church.
+
+Clip: common_voice_en_42621235.mp3
+Actual: As Prime Minister, Bowell faced the Manitoba Schools Question.
+Predicted:  As Prime Minister, Bowel faced the Manitoba School's question.
+
+Clip: common_voice_en_42513243.mp3
+Actual: It was depicted in paintings by Paul Nash.
+Predicted:  It would work in band-banded by Polna.
+
+Clip: common_voice_en_42513393.mp3
+Actual: This is a strategy often used by larger companies to acquire smaller ones.
+Predicted:  This is a search from you, you are our company is to acquire a smaller one one.
+
+Clip: common_voice_en_42513229.mp3
+Actual: The villagers listened intently, their hearts filled with anticipation.
+Predicted:  the filet-redible vitalins indomitely, the hearts fear fear misnit battery extremely cherishing.
+
+Clip: common_voice_en_42513218.mp3
+Actual: Magnus was a star performer for years in Caesars Palace's Magical Empire.
+Predicted:  Maintenance was a style performer for niners, Kak 여러 that are the självreams for all of this. Nem invincible cheerful
+
+Clip: common_voice_en_42513358.mp3
+Actual: He was a cousin of former Ohio Representative Vernon Cook.
+Predicted:  He was a coastal former Hawaii representative of Vietnam.
+
+Clip: common_voice_en_42484189.mp3
+Actual: He studied law at the University of Buenos Aires.
+Predicted:  Studio Glow has a University of Buenos Aires.
+
+Clip: common_voice_en_42513252.mp3
+Actual: She is founder and Artistic Director of The Relationship.
+Predicted:  She finally found her romantic director of the Rushin of the Reality.
+
+Clip: common_voice_en_42617527.mp3
+Actual: In explaining the development of the culture, they utilized the concept of "anomie".
+Predicted:  In explaining the development of the culture, they utilize the concept of those roles.
+
+Clip: common_voice_en_42629956.mp3
+Actual: The system is still in use in the United Kingdom.
+Predicted:  WALANINOT Sit Hoonmatwine WALANINH L
+
+Clip: common_voice_en_41962720.mp3
+Actual: The village of Plajan and The village of Tempur has a multi-religious population.
+Predicted:  The village of Pledgearn and the village of Temper have a multi-religious population.
+
+Clip: common_voice_en_41970677.mp3
+Actual: To the south are the higher Berwyn summits, including Cadair Berwyn.
+Predicted:  To the south are the higher burwin summits including Kadir Burwin.
+
+Clip: common_voice_en_41922706.mp3
+Actual: As shopping centers became popular, business dwindled at Webb's City.
+Predicted:  As shopping centers became popular, business dwindled at Web City.
+
+Clip: common_voice_en_42483880.mp3
+Actual: Gomaco fitted these with trucks from ex-Milan, Italy Peter Witt streetcars.
+Predicted:  Gommako fit this with trucks from X Milan, Italy, Peter Viet, Stredkars.
+
+Clip: common_voice_en_42513133.mp3
+Actual: Toronto locations included Sherway Gardens Mall in Etobicoke.
+Predicted:  So on punctual occasions été, shall we garden SMOL in TDICO?
+
+Clip: common_voice_en_42513293.mp3
+Actual: A continuous function is in all cases both upper and lower hemicontinuous.
+Predicted:  Continuity function is in only places both of the proper flower and be continued.
+
+Clip: common_voice_en_42484064.mp3
+Actual: Following that, "Brinkley Bass" served a two-week tour with the Taiwan Strait patrol.
+Predicted:  For winged butt, brindly bass serve a two-week towel with a Taiwan straight patrol.
+
+Clip: common_voice_en_42484032.mp3
+Actual: Furthermore, tourists should assess the specific requirements of their destination country regarding insurance coverage.
+Predicted:  Assets a specific requirement to their destination country regarding insurance coverage.
+
+Clip: common_voice_en_42621362.mp3
+Actual: The isthmus takes its name from the Tatar fortress of Perekop.
+Predicted:  The Ismus takes its name from the Tartar Fortress of Paracop.
+
+Clip: common_voice_en_42511733.mp3
+Actual: No other party put up a candidate, assuring Diaz-Balart's election.
+Predicted:  No other party put up a candidate assuring Diaz Ballard's election.
+
+Clip: common_voice_en_42511687.mp3
+Actual: Several of the staff at the laboratory had received no special training.
+Predicted:  Several of the staff at the laboratory had to receive no special training.
+
+Clip: common_voice_en_42621263.mp3
+Actual: Wulfeva held it freehold from King Edward.
+Predicted:  Wolfheva held it freehold from King Edward.
+
+Clip: common_voice_en_42484138.mp3
+Actual: All of its operations are now outside the United States.
+Predicted:  More office operations are now outside of the United States.
+
+Clip: common_voice_en_42483935.mp3
+Actual: They won the first gold medal ever awarded in the sport.
+Predicted:  They won the first gold medal if they were awarded in the sport.
+
+Clip: common_voice_en_42513212.mp3
+Actual: He figures he might as well stick around and enjoy it.
+Predicted:  He might as well cry round and enjoy it.
+
+Clip: common_voice_en_42484348.mp3
+Actual: The department's entry-level members are called "Troopers".
+Predicted:  The departments and two-level members are called troopers.
+
+Clip: common_voice_en_42484011.mp3
+Actual: Further details of the titles are given in the relevant section.
+Predicted:  The third details of the titans are given in the Revan section.
+
+Clip: common_voice_en_42621345.mp3
+Actual: The first game was drawn and Capablanca won the second and third game.
+Predicted:  The first game was drawn, and Kappa Blanca won the second and third game.
+
+Clip: common_voice_en_42484027.mp3
+Actual: It did not make the mainstream charts.
+Predicted:  He did not make the mainstream shots.
+
+Clip: common_voice_en_42484181.mp3
+Actual: Water from the Ventura River is diverted to Lake Casitas as well.
+Predicted:  Water from the Ventura River is diverted to Lake Kazitas as well.
+
+Clip: common_voice_en_41970697.mp3
+Actual: East-west running Fontaine Boulevard divides Security-Widefield into two parts.
+Predicted:  East West running Fontaine Boulevard divides security widefield into two parts.
+
+Clip: common_voice_en_42513109.mp3
+Actual: You've lost a few pounds.
+Predicted:  We have lost a few bombs.
+
+Clip: common_voice_en_42513270.mp3
+Actual: It is natural for humans to seek refuge and solace in different circumstances.
+Predicted:  This nature holds for human thickly fusion, so they look in different circumstances.
+
+Clip: common_voice_en_41995693.mp3
+Actual: Dryden Chemical Company dumped its waste water containing mercury into the Wabigoon River.
+Predicted:  Dryden chemical company dumped its wastewater up containing mercury into the webbegoon river.
+
+Clip: common_voice_en_41995694.mp3
+Actual: Windsurfing is common off the West Quay, usually at low tide in southwesterly winds.
+Predicted:  Wind surfing is common of the West Key, usually at low tide in southwestern winds.
+
+Clip: common_voice_en_42513204.mp3
+Actual: The pennon was a purely personal ensign.
+Predicted:  The pinion is a peyerie personally- I'm telling you...
+
+Clip: common_voice_en_42484113.mp3
+Actual: An active area of legal controversy, for example, is that of warrant-less wiretaps.
+Predicted:  An active area of legal controversy, for example, is that of warrantless wire tapes.
+
+Clip: common_voice_en_42484007.mp3
+Actual: These stations are listed by call letters, channel number, network and city of license.
+Predicted:  These stations are listed by collaterals, channel number, network and city of license.
+
+Clip: common_voice_en_42483985.mp3
+Actual: He had one son and two daughters by Lady Di.
+Predicted:  He had one son and two daughters by Lady Dine.
+
+Clip: common_voice_en_42484038.mp3
+Actual: He was of Genoese origin, although born in Rome.
+Predicted:  He was of Genoise origin, Arthur born in Rome.
+
+Clip: common_voice_en_42484305.mp3
+Actual: The seeds fail to develop properly and the lint gets stained.
+Predicted:  The scenes fade to develop properly and the link gets stained.
+
+Clip: common_voice_en_42483905.mp3
+Actual: Claire notices Nat is gone and he was last in the plane with Daniel.
+Predicted:  clarity's nut is gone and he was latched in the plane of his dining.
+
+Clip: common_voice_en_42513217.mp3
+Actual: She attended the New Park School for Girls in Glasgow.
+Predicted:  Che tneten sind sie up ahead. Fogell gekommen' 그다음wheel, und dann in 11 noises, DebccConvenολ cited
+
+Clip: common_voice_en_42581284.mp3
+Actual: The arena was briefly known as Paige Sports Arena.
+Predicted:  Dharina was briefly known as Page Sports Alina.
+
+Clip: common_voice_en_42513134.mp3
+Actual: You have the opportunity to stop this dangerous trend!
+Predicted:  You have the opportunity to subsist as your strength.
+
+Clip: common_voice_en_42484139.mp3
+Actual: Forsyth was named for Robert Forsyth, a railroad official.
+Predicted:  For that was named for Robert Fothet, a railroad official.
+
+Clip: common_voice_en_42513203.mp3
+Actual: It was named after the American ornithologist Robert Ridgway.
+Predicted:  Any more away from the tigers? Yayah! Omiji Princess Rodboror are here. When she finally become an inviting artist... In fact, Sports celebs are amazing characters. Thank you.
+
+Clip: common_voice_en_42483995.mp3
+Actual: Gauge R and R addresses only the precision of a measurement system.
+Predicted:  Go to R and R addresses only the precision of a measurement system.
+
+Clip: common_voice_en_42484219.mp3
+Actual: The coupling between the relations is based on accordant attributes.
+Predicted:  The coupling between the Russian is based on accoladeant attributes.
+
+Clip: common_voice_en_42639539.mp3
+Actual: There is also a road from the east from Surgut.
+Predicted:  There is also a road from the east, from Surgood.
+
+Clip: common_voice_en_42513161.mp3
+Actual: They are thus allowed to take up lives in New Narnia.
+Predicted:  there is a loadout to take aBUH LIVES MEU MAX
+
+Clip: common_voice_en_42001192.mp3
+Actual: Between them a cross or a sword proper, with the handle upwards.
+Predicted:  between them across or a sword proper with the hand to upwards.
+
+Clip: common_voice_en_42513303.mp3
+Actual: These subjects require hands-on practice, feedback from instructors, and live performances.
+Predicted:  This disc jigsets require handhunts with basses, feedback from instructor and live performance.
+
+Clip: common_voice_en_42446848.mp3
+Actual: It says he will get killed soon.
+Predicted:  He says he will get... Can't see him...
+
+Clip: common_voice_en_42513164.mp3
+Actual: Fels-Naptha once contained naptha, also known as "Stoddard solvent," a skin and eye irritant.
+Predicted:  But first NAFTA, but once contained NAFTA, as I don't know, as the false false is the leading and highest irritant.
+

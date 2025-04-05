@@ -1,0 +1,336 @@
+Clip: common_voice_en_42238716.mp3
+Actual: Esplen is part of Pittsburgh and is in the Pittsburgh City School district.
+Predicted:  Esplin is part of Pittsburgh and is in the Pittsburgh City School District.
+
+Clip: common_voice_en_42555516.mp3
+Actual: Safronov is the nearest rural locality.
+Predicted:  Safranoff is the nearest rural locality.
+
+Clip: common_voice_en_41928094.mp3
+Actual: Then you're not the man.
+Predicted:  Then you are not the man.
+
+Clip: common_voice_en_41929248.mp3
+Actual: The local baseball field is named for him.
+Predicted:  The local baseball field is named for aim.
+
+Clip: common_voice_en_41928171.mp3
+Actual: These circuits are very frequently fed from transformers, and have significant resistance.
+Predicted:  These circuits are very frequently fed from transformers and have significant resistors.
+
+Clip: common_voice_en_41921421.mp3
+Actual: She is married to Mathieu Sweeney.
+Predicted:  She is married to Matthew Sweetney.
+
+Clip: common_voice_en_41948210.mp3
+Actual: “These others,” he said in a voice of extreme irritation.
+Predicted:  This others is said in a voice of extreme irritation.
+
+Clip: common_voice_en_41920850.mp3
+Actual: He is quickly killed by Superboy-Prime amidst the chaos.
+Predicted:  He is quickly killed by Superboy Prime and missed the kills.
+
+Clip: common_voice_en_42020013.mp3
+Actual: Philpott was for many years Treasurer and then President of the British Psychological Society.
+Predicted:  Philbot was for many years treasurer and then president of the British Psychological Society.
+
+Clip: common_voice_en_42401105.mp3
+Actual: Petty suggested that he call Donovan, which he did.
+Predicted:  Petty suggested that he called Donovan, which he did.
+
+Clip: common_voice_en_41944826.mp3
+Actual: Sharity-Light runs in user space rather than kernel space.
+Predicted:  I'll show you the log advance in userspace rather than kernelspace.
+
+Clip: common_voice_en_41917228.mp3
+Actual: Harrison co-produced the recording with percussionist Ray Cooper.
+Predicted:  Harrison co-produced a recording with percussionist Rick Cooper.
+
+Clip: common_voice_en_41920860.mp3
+Actual: Linguist Noam Chomsky proposed a biological component of language, which he termed Universal Grammar.
+Predicted:  linguist Noam Chomsky proposed a biological component of language which it termed universal grammar.
+
+Clip: common_voice_en_41917459.mp3
+Actual: The permanent exhibition, "With a Single Step" was designed by Matter Practice.
+Predicted:  The permanent exhibition with a single step was designed by Motopraxis.
+
+Clip: common_voice_en_41917205.mp3
+Actual: With that task accomplished he felt he could retire at a high point.
+Predicted:  With that task accomplished, it felt it could retire at a high point.
+
+Clip: common_voice_en_41917519.mp3
+Actual: Their greatest chart success came with their summer hit single "I Love You".
+Predicted:  The greatest child's success came with the summer heat singer, I Love You.
+
+Clip: common_voice_en_41920809.mp3
+Actual: He finished his career after short stints with the Giants and Lions.
+Predicted:  He finished his career after short stint with the giant and lions.
+
+Clip: common_voice_en_42251480.mp3
+Actual: Some outside scholars examining the system in depth disagree with the "official" results.
+Predicted:  Sarah of Tsai's scholars examining the system in depth disagree with the official results.
+
+Clip: common_voice_en_41920855.mp3
+Actual: The competition is open to young skippers across all classes.
+Predicted:  The computation is open to young skippers across all classes.
+
+Clip: common_voice_en_41942339.mp3
+Actual: Currently, it also houses the American Airpower Museum.
+Predicted:  Currently, it also houses the American Air Power Museum.
+
+Clip: common_voice_en_41917395.mp3
+Actual: Towards the video's climax, the crowd cheers Carey and begin clapping and chanting praises.
+Predicted:  Towards the video's climax, the crowd cheers carry and begin clapping and chanting praises.
+
+Clip: common_voice_en_41917187.mp3
+Actual: During the time he was with Miller, Hurley was one of the key soloists.
+Predicted:  During the time he was with Miller, Harley was one of the key soloists.
+
+Clip: common_voice_en_41929216.mp3
+Actual: Sulphate and chloride sodium water is used for therapeutic baths and drinking.
+Predicted:  Sulphase and Chlorotodium water is used for therapeutic baths and drinking.
+
+Clip: common_voice_en_41921406.mp3
+Actual: Lawrence directed his first music videos for the San Jose band, A Western Front.
+Predicted:  Lawrence directed his first music video for the San Jose band, A Western Front.
+
+Clip: common_voice_en_41929259.mp3
+Actual: The lake is bordered to the southwest by the Sinclair Wetlands.
+Predicted:  The lake is bordered to the south west by the Sinclair woodlands.
+
+Clip: common_voice_en_41917153.mp3
+Actual: As players do well, the player character's composure meeting increases.
+Predicted:  As players do well, the player character's compression meeting increases.
+
+Clip: common_voice_en_41917375.mp3
+Actual: The first positive result of this effort was that Venezuela regained a credit-eligibility rating.
+Predicted:  The first positive result of this effort was that Venezuela regained a credit eligibility rating.
+
+Clip: common_voice_en_42498924.mp3
+Actual: Initially, the school was located in Good Hope, Georgia.
+Predicted:  Initially, this school was located in Good Hope, Georgia.
+
+Clip: common_voice_en_42220527.mp3
+Actual: Instead a dirt highway going north-east reaches Arua and Gulu north of the lake.
+Predicted:  instead of that highway going north-east reaches arua and good enough of the lake
+
+Clip: common_voice_en_42387486.mp3
+Actual: The effect became a favourite.
+Predicted:  The effect became a favorite.
+
+Clip: common_voice_en_41952302.mp3
+Actual: She is a mother of two sons named Kayden Cash and Sebastian Evans.
+Predicted:  She is a mother of two songs named Cadyn Cash and Sebastian Evans.
+
+Clip: common_voice_en_41948211.mp3
+Actual: There are two main reason for which I think it's not true, he says.
+Predicted:  There are two mere reasons for which I think it's not true, he says.
+
+Clip: common_voice_en_41962071.mp3
+Actual: The rebranding process was referred internally to as Project Hyphen.
+Predicted:  There were branding proxies which referred internally towards Project I-Thin.
+
+Clip: common_voice_en_42479042.mp3
+Actual: Many listeners were excited by the raunchy, earthy sounds of their growls and mutes.
+Predicted:  Many listeners were excited by the raunchy, earthy sounds of their growls and moots.
+
+Clip: common_voice_en_41971291.mp3
+Actual: The seat of the municipality is the town of Paramythia.
+Predicted:  The seat of the municipality is the town of Paramecia.
+
+Clip: common_voice_en_42095438.mp3
+Actual: The stars in Carina have also been found to be metal-poor.
+Predicted:  The stars in Carina have also been found to be metal poor.
+
+Clip: common_voice_en_41929143.mp3
+Actual: Radicals may appear in any position in a character.
+Predicted:  Radicals may appear in any position in the character.
+
+Clip: common_voice_en_41927938.mp3
+Actual: There's another one of mine, said Lucie.
+Predicted:  there's another one of mine said lucy
+
+Clip: common_voice_en_42593468.mp3
+Actual: Raff was born in Lachen in Switzerland.
+Predicted:  Raph was born in Lachen in Switzerland.
+
+Clip: common_voice_en_41958320.mp3
+Actual: Her grave is located at the Hietzing Cemetery.
+Predicted:  Her grave is located at the Hitzing Cemetery.
+
+Clip: common_voice_en_41918336.mp3
+Actual: Teams are seeded according to their regular-season record.
+Predicted:  Teams are seeded according to their regular season record.
+
+Clip: common_voice_en_41971860.mp3
+Actual: This estate was roughly two-thirds of the modern suburb of East Ryde.
+Predicted:  This estate was roughly two-thirds of the modern suburb of East Ride.
+
+Clip: common_voice_en_41917383.mp3
+Actual: Chinese burial coins are typically not included in Chinese coin catalogues.
+Predicted:  Chinese Barrier Coins are typically not included in Chinese coin catalogs.
+
+Clip: common_voice_en_41944465.mp3
+Actual: A large part of the island is natural-state coniferous forest, with some herb-rich parts.
+Predicted:  A large part of the island is natural state coniferous forest with some herb-rich parts.
+
+Clip: common_voice_en_42312628.mp3
+Actual: The Savane River flows on the south bank of the Caldwell River.
+Predicted:  The Savanne River flows on the south bank of the Cowdwell River.
+
+Clip: common_voice_en_42387511.mp3
+Actual: Douglas-Hamilton was also involved in countering the German task force operating near Ceylon.
+Predicted:  Douglas Hamilton was also involved in countering the German task force operating near Ceylon.
+
+Clip: common_voice_en_41984186.mp3
+Actual: Narda Ravanna was born in Boston, Massachusetts.
+Predicted:  Nader Ravanna was born in Boston, Massachusetts.
+
+Clip: common_voice_en_42356748.mp3
+Actual: Aer Arann Islands is headquartered in Inverin.
+Predicted:  Air Aran Islands is headquartered in Inverin.
+
+Clip: common_voice_en_41962479.mp3
+Actual: Her parents met working at Polaroid.
+Predicted:  Our parents met working at Polaroid.
+
+Clip: common_voice_en_41917468.mp3
+Actual: They obtain the water from wells and some streams nearby.
+Predicted:  They obtained the water from wells and some streams nearby.
+
+Clip: common_voice_en_42056178.mp3
+Actual: The last child was also a boy, fair and bonny.
+Predicted:  The last child was also a boy, fair and bony.
+
+Clip: common_voice_en_41952177.mp3
+Actual: Denny responded in verse.
+Predicted:  Dini responded in verse.
+
+Clip: common_voice_en_41971697.mp3
+Actual: Unlike his contemporaries, Cunningham would also routinely confirm his identifications through field surveys.
+Predicted:  Unlike his contemporaries, Cunningham would also routinely confirm his identification through field surveys.
+
+Clip: common_voice_en_42220435.mp3
+Actual: This rule will probably not be good for that kind of person.
+Predicted:  this role will probably not be good for that kind of person
+
+Clip: common_voice_en_41977227.mp3
+Actual: Colonel Beall served throughout the war as the only Commandant of the Marine Corps.
+Predicted:  Colonel Beale served throughout the war as the only commandant of the Marine Corps.
+
+Clip: common_voice_en_42428061.mp3
+Actual: The fate of the six Crecy engines remains unknown.
+Predicted:  The fate of the six Cressy engines remains unknown.
+
+Clip: common_voice_en_41917472.mp3
+Actual: The game features fifteen playable characters on launch.
+Predicted:  The game features 15 playable characters on launch.
+
+Clip: common_voice_en_42238749.mp3
+Actual: An example of a safe-life component is the helicopter rotor blade.
+Predicted:  An example of a safe life component is the helicopter rotor blade.
+
+Clip: common_voice_en_42238557.mp3
+Actual: The current mayor of Protivin is Michael Lensing.
+Predicted:  The current mayor of Protiven is Michael Lensing.
+
+Clip: common_voice_en_41921355.mp3
+Actual: The cutouts in white plaster make the facade look like lace.
+Predicted:  The cut outs in white plaster make the facade look like lace.
+
+Clip: common_voice_en_41929360.mp3
+Actual: In South Australian English the broad A is usually used.
+Predicted:  In South Australian English, the broad age is usually used.
+
+Clip: common_voice_en_41918312.mp3
+Actual: These demos helped build hype around the band.
+Predicted:  These demos help build hype around the band.
+
+Clip: common_voice_en_41970688.mp3
+Actual: Wiley graduated from Sault Ste.
+Predicted:  Wiley graduated from Salts D.
+
+Clip: common_voice_en_42264420.mp3
+Actual: A teaspoon is typically characterized by its small size and long handle.
+Predicted:  A T-spin is typically characterized by a small size, a long handle.
+
+Clip: common_voice_en_41928510.mp3
+Actual: Dana's character was not replaced.
+Predicted:  Diana's character was now replaced.
+
+Clip: common_voice_en_41971869.mp3
+Actual: He was promoted to head coach after Steinar Nilsen was dismissed.
+Predicted:  he was promoted to head coach after Steiner Nielsen was dismissed.
+
+Clip: common_voice_en_41928388.mp3
+Actual: The label specializes in downtempo music.
+Predicted:  The label specializes in town tempo music.
+
+Clip: common_voice_en_41917242.mp3
+Actual: The nesting season for these turtles is April to August.
+Predicted:  The next season for these turtles is April to August.
+
+Clip: common_voice_en_42312771.mp3
+Actual: The name "Greyhound" is generally believed to come from the Old English "grighund".
+Predicted:  The name Greyhound is generally believed to come from the Old English Greyhound.
+
+Clip: common_voice_en_41917391.mp3
+Actual: The village itself has preserved a number of elements typical of alpine architecture.
+Predicted:  The village itself was preserved a number of elements typical of alpine architecture.
+
+Clip: common_voice_en_41923388.mp3
+Actual: Ethel was involved with education serving on the committee of the Froebel Society.
+Predicted:  Ethel was involved with education, serving on the committee of the Frobel Society.
+
+Clip: common_voice_en_41920842.mp3
+Actual: Flowering plants or angiosperms are divided into two large groups.
+Predicted:  Flowering plant or angiosperms are divided into two large groups.
+
+Clip: common_voice_en_41952276.mp3
+Actual: The pilot made it back to his base.
+Predicted:  The pilots made it back to his base.
+
+Clip: common_voice_en_41917265.mp3
+Actual: Weekes' career began with the Owen Sound Platers of the Ontario Hockey League.
+Predicted:  Wickey's career began with the Owen sand platters of the Ontario Hockey Lake.
+
+Clip: common_voice_en_41944852.mp3
+Actual: It stars Michael Gross, Alexis Arquette, and Hilary Swank.
+Predicted:  It's TARS, Michael Gross, Alexis is Arquit and Hilary is Hunk.
+
+Clip: common_voice_en_41928403.mp3
+Actual: They then formed the group Tat Ming Pair, which was later signed by Polygram.
+Predicted:  They then formed the group tart-mean pair which was later signed by polygram.
+
+Clip: common_voice_en_42498922.mp3
+Actual: Here the best ideas come to me.
+Predicted:  Here are the best ideas come to me.
+
+Clip: common_voice_en_41930686.mp3
+Actual: The boy shrugged his shoulders slightly.
+Predicted:  The boy stroked his shoulders slightly.
+
+Clip: common_voice_en_41952161.mp3
+Actual: Both her parents were professional artists.
+Predicted:  Both appearance were professional artists.
+
+Clip: common_voice_en_41971694.mp3
+Actual: Chishmy is the nearest rural locality.
+Predicted:  Chishmi is the nearest rural locality.
+
+Clip: common_voice_en_42494012.mp3
+Actual: Its products range from suspension forks to derailleurs.
+Predicted:  Its products range from suspension forks to derailers.
+
+Clip: common_voice_en_41923270.mp3
+Actual: Marshallville students attend Green Local School District in nearby Smithville.
+Predicted:  NERB, Marshall Field student, attend Green Local School District in NERB, Smith, FILE.
+
+Clip: common_voice_en_41929456.mp3
+Actual: For a long stretch it serves as the Blue Line, the park's boundary.
+Predicted:  For a long stretch, it serves as the blue line, the palk's boundary.
+
+Clip: common_voice_en_41929263.mp3
+Actual: From then on her life was dominated by her Westenholz family.
+Predicted:  From then on, our lives was dominated by our Western Holes family.
+

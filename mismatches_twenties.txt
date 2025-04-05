@@ -1,0 +1,308 @@
+Clip: common_voice_en_41930733.mp3
+Actual: The Site of Special Scientific Interest Ashburnham Park is partly within the parish.
+Predicted:  The site of special scientific interest, Ashbrunham Park is spotly within the parish.
+
+Clip: common_voice_en_42514768.mp3
+Actual: To newly settled Serbs, old Arsa was known as Ras.
+Predicted:  Tynuli Settle Serbs, Old Arsar was known as Arraz.
+
+Clip: common_voice_en_42148572.mp3
+Actual: The viaduct is known as the "bridge of suicides".
+Predicted: 
+
+Clip: common_voice_en_41928478.mp3
+Actual: Hence the area became known as Shing Mun or "fortified gate".
+Predicted:  Hence, the era became known as Xingmuan, or fortified gate.
+
+Clip: common_voice_en_41917168.mp3
+Actual: McQuaid and Butler formerly worked for Sony Online Entertainment on the team developing "EverQuest".
+Predicted:  Makoid and Butler firmly worked for Sony Online Entertainment on the team developing EverQuest.
+
+Clip: common_voice_en_42099557.mp3
+Actual: Every living cell is encased in a membrane that separates it from its surroundings.
+Predicted:  Every living service is the same in your memory, with that speed, if from its surrounding.
+
+Clip: common_voice_en_42392357.mp3
+Actual: But without a grain of taste.
+Predicted:  but without the range of states.
+
+Clip: common_voice_en_41929446.mp3
+Actual: LaRocca asks afterward what she thought of the fight.
+Predicted:  LaRouka acts afterward when she thought of the fight.
+
+Clip: common_voice_en_42502990.mp3
+Actual: Seeing smoke coming from the chimney, they approached the hut to talk.
+Predicted:  Since more coming from the chimney, the approach to the hut could up.
+
+Clip: common_voice_en_41928585.mp3
+Actual: In Chile, the government and public rejected the peace treaty.
+Predicted:  Initially the government and public rejected the peace treaty.
+
+Clip: common_voice_en_42220748.mp3
+Actual: There is much controversy over what should be done with it.
+Predicted:  There is much controversy over what should be done with that.
+
+Clip: common_voice_en_41929408.mp3
+Actual: It was quickly adopted by the public and by government officials.
+Predicted:  It was quickly adopted by the Republican by government officials.
+
+Clip: common_voice_en_41930751.mp3
+Actual: Basketball games are also played in Agganis Arena, and on occasion Walter Brown Arena.
+Predicted:  But skateboard games are also played in Aghanis Arena and Ono-cation Water Brown Arena.
+
+Clip: common_voice_en_41928476.mp3
+Actual: Each step is analogous to a multiplexing process.
+Predicted:  Each step is analogous to your multiplexing process.
+
+Clip: common_voice_en_41928989.mp3
+Actual: They have raised four children: Isaac, Kevin, Miguel and Joy.
+Predicted:  They have raised four children Isaac, Kevin, Mingul and Joy.
+
+Clip: common_voice_en_41962661.mp3
+Actual: These points represent "conformal infinity" for space and time.
+Predicted:  This point represents conformal infinity for space in time.
+
+Clip: common_voice_en_42428974.mp3
+Actual: Hollobone has also played occasionally for Kettering Rugby Football Club.
+Predicted:  Holobone has also played occasionally for Kettering Rugby Football Club.
+
+Clip: common_voice_en_42221153.mp3
+Actual: It also creates a rhythmic pattern that enhances the flow of the text.
+Predicted:  It also creates a real make pattern that I handcased the flow of the text.
+
+Clip: common_voice_en_41921440.mp3
+Actual: Gin arrives at the station waiting for Mac.
+Predicted:  June arrives at the station waiting for Mac.
+
+Clip: common_voice_en_41925101.mp3
+Actual: What is the Screwloose attack sound supposed to represent?
+Predicted:  What is this creelest attack sound supposed to represent?
+
+Clip: common_voice_en_42511505.mp3
+Actual: All the data was wiped from the flash drive.
+Predicted:  Are the data was wiped from the first rape?
+
+Clip: common_voice_en_41917403.mp3
+Actual: Certain classes of transactions are exempt, or may be exempted on application.
+Predicted:  Setting classes of transactions that I've sent, or may be accepted on application.
+
+Clip: common_voice_en_42600662.mp3
+Actual: Petersburg has become overcrowded in recent years.
+Predicted:  Peter's book has become of a cryover in recent years.
+
+Clip: common_voice_en_41945313.mp3
+Actual: Fianarantsoa means "Good education" in Malagasy.
+Predicted:  Fianaratosamis, Good Education in Malagasy.
+
+Clip: common_voice_en_42600412.mp3
+Actual: Mulliner now is the personal commissioning department for Bentley.
+Predicted:  Molly now is the personal commissioning department for Bentley.
+
+Clip: common_voice_en_41944972.mp3
+Actual: The reed cormorant can dive to considerable depths, but usually feeds in shallow water.
+Predicted:  The reed comfortant can dive to considerable depths but usually feed in shallow water.
+
+Clip: common_voice_en_41917513.mp3
+Actual: After completion of the spawning process, the fish return to the sea.
+Predicted:  After completion of this pounding process, the fish returns to the sea.
+
+Clip: common_voice_en_41929017.mp3
+Actual: This algorithm would be memorized and carried out by rote.
+Predicted:  These are the guys that would be memorized and carried out by root.
+
+Clip: common_voice_en_42148525.mp3
+Actual: Secondly, basketball is a team sport that emphasizes the importance of teamwork and cooperation.
+Predicted: 
+
+Clip: common_voice_en_42401354.mp3
+Actual: The Christians refused to follow the Emperor to the field of battle.
+Predicted:  The Christians refuse to follow the Emperor to the field of battle.
+
+Clip: common_voice_en_42514717.mp3
+Actual: It is accessible via the Old Glenn Highway.
+Predicted:  It is accessible via the old Glen highway.
+
+Clip: common_voice_en_41920820.mp3
+Actual: Common gravel types include pea gravel and crushed granite gravel.
+Predicted:  Common Gravel Tives include Pierre Gravel in Christ, Grineth Gravel.
+
+Clip: common_voice_en_42148479.mp3
+Actual: However, every incident of boundary violation requires responsible action to ensure children’s safety.
+Predicted: 
+
+Clip: common_voice_en_42493908.mp3
+Actual: The main inflowing rivers are the Sammamish and Cedar Rivers.
+Predicted:  The main inflowing rivers are the Sam Mammish and Cedar rivers.
+
+Clip: common_voice_en_41928117.mp3
+Actual: The uniqueness of the sequence satisfying these properties can be proved using transfinite induction.
+Predicted:  The uniqueness of the sequence that is flying this properties can be proved using Transfinite Induction.
+
+Clip: common_voice_en_41928506.mp3
+Actual: The community was named for the nearby salt works.
+Predicted:  The community was named for the nearby salt walks.
+
+Clip: common_voice_en_42099527.mp3
+Actual: First and foremost, the privacy scarf provides a high level of privacy.
+Predicted:  First and the first foremost, the privacy, scope, probe, pipe, high level of privacy.
+
+Clip: common_voice_en_42600397.mp3
+Actual: He also earned twenty caps, scoring nineteen goals, with the Swedish national team.
+Predicted:  He also earned 20 caps scoring 19 girls with a Swedish national team.
+
+Clip: common_voice_en_41918357.mp3
+Actual: The neighboring City of Brooklyn, in contrast, was staunchly Unionist.
+Predicted:  The neighboring city of Brooklyn, in contrast, was a socially unionist.
+
+Clip: common_voice_en_42693700.mp3
+Actual: There are prehistoric paintings and tools in the caves surrounding the village.
+Predicted:  There are prehistoric paintings and tools in the cave surrounding the village.
+
+Clip: common_voice_en_42511513.mp3
+Actual: I'd done a lot of them already.
+Predicted:  I've done a lot of them already.
+
+Clip: common_voice_en_41928500.mp3
+Actual: It is common for the short-lived isotopes to have delayed emissions of various particles.
+Predicted:  It is common for the shots lived isotopes to have delayed emissions of various particles.
+
+Clip: common_voice_en_41945301.mp3
+Actual: It is an affiliate of Radio-Canada's Ici Musique network.
+Predicted:  It is an affiliate of Radio Canada's IC Music Network.
+
+Clip: common_voice_en_41962429.mp3
+Actual: It crossed the island and exited near Isabela.
+Predicted:  It's crossed the island and exited near Isabella.
+
+Clip: common_voice_en_41945353.mp3
+Actual: Once connected, the user will be given realtime access to a server's file archive.
+Predicted:  Once connected the user will begin our build time access to a servos file archive.
+
+Clip: common_voice_en_42496713.mp3
+Actual: The loosened floes are driven against each other and break with loud crashes.
+Predicted:  The loosened flows are driven against each other and break with loud crashes.
+
+Clip: common_voice_en_41917187.mp3
+Actual: During the time he was with Miller, Hurley was one of the key soloists.
+Predicted:  During the time it was with Miller, Harley was one of the Kacer Loist.
+
+Clip: common_voice_en_41930678.mp3
+Actual: Wodrow also records that when the pressure was greatest would split up his family.
+Predicted:  Woodrow also records that when depression was grittest would split up his family.
+
+Clip: common_voice_en_41929275.mp3
+Actual: Lakewood is also home to Lakewood Country Club.
+Predicted:  Liquid is also home to Liquid Country Club.
+
+Clip: common_voice_en_41917440.mp3
+Actual: They may be found in both freshwater and marine environments.
+Predicted:  They may be found in both fresh water and marine environments.
+
+Clip: common_voice_en_42133023.mp3
+Actual: The following weeks were challenging for John, but he pushed through.
+Predicted:  The following week were challenging for John but he pushed through.
+
+Clip: common_voice_en_42148541.mp3
+Actual: It is based on a combination of common law, statutory law, and conventions.
+Predicted: 
+
+Clip: common_voice_en_41962243.mp3
+Actual: The Chief Officer, Garth Scotford, was out of the country, on holiday.
+Predicted:  The chief officer, Guth Scottford, was out of the country on holiday.
+
+Clip: common_voice_en_41945340.mp3
+Actual: The album has been described as "eclectic".
+Predicted:  The album has been described as electric.
+
+Clip: common_voice_en_42170121.mp3
+Actual: The correct word for the blank is "unobtrusiveness".
+Predicted:  The correct word for blank is unobtrusiveness.
+
+Clip: common_voice_en_42078337.mp3
+Actual: The speaker is asking if the tooth being referred to is good in quality.
+Predicted:  This speaker is asking if the tooth being on very good quality.
+
+Clip: common_voice_en_42220714.mp3
+Actual: Although, thorough mixing of gases and vapors may not be as easily accomplished.
+Predicted:  Although, the remixing of gases and vapors may not be as easily accomplished.
+
+Clip: common_voice_en_42096992.mp3
+Actual: She was the first Castlebar Celtic player to represent the Republic of Ireland team.
+Predicted: 
+
+Clip: common_voice_en_41945162.mp3
+Actual: She is Catholic, though she once deemed herself not a very good Catholic.
+Predicted:  She's got a leak through, she once deemed herself not very good, got a leak.
+
+Clip: common_voice_en_41928552.mp3
+Actual: Throughout her career, Torun worked in Sweden, France, Germany and Indonesia.
+Predicted:  Throughout a career, Turun worked in Sweden, France, Germany and Indonesia.
+
+Clip: common_voice_en_41945325.mp3
+Actual: She authored two books.
+Predicted:  She authored to books.
+
+Clip: common_voice_en_42302122.mp3
+Actual: He was Archdeacon of Mityana before becoming bishop.
+Predicted:  Peace be upon you all.
+
+Clip: common_voice_en_42510043.mp3
+Actual: Their home ground, Kiwitea Street Stadium, is located in the suburb of Sandringham.
+Predicted:  Their home ground, Kewitaya Street Stadium, is located in the suburb of Sandrigam.
+
+Clip: common_voice_en_41928248.mp3
+Actual: People who compete in performance events support the move.
+Predicted:  People will compete in the performance event to part the move.
+
+Clip: common_voice_en_41918321.mp3
+Actual: Once a cat burglar, a master among jewel thieves.
+Predicted:  Once again, burglar, a master among Junitips.
+
+Clip: common_voice_en_41928350.mp3
+Actual: Doctor Frank Peralta is stabbed to death in his apartment one night.
+Predicted:  Dr. Frank Berato is stopped to death in his apartment one night.
+
+Clip: common_voice_en_42350391.mp3
+Actual: He trained in law but made much of his income from his estates.
+Predicted:  He trained in low but made much of his income from his states.
+
+Clip: common_voice_en_42510035.mp3
+Actual: Magna Steyr confirmed the deal following Jaguar's announcement.
+Predicted:  Magna Stayer confirmed the deal following Jaguar's announcement.
+
+Clip: common_voice_en_42687873.mp3
+Actual: Mannford, the closest neighboring town, is to the northeast, on Keystone Lake.
+Predicted:  Manbird, the closest neighboring town, is to the northeast on sea stone lake.
+
+Clip: common_voice_en_42591501.mp3
+Actual: Collins and Lerman also formed a band called Indigo, along with musician Daniel Pashman.
+Predicted:  hey
+
+Clip: common_voice_en_42110184.mp3
+Actual: American architect William Phelps Eno favored small traffic circles.
+Predicted: 
+
+Clip: common_voice_en_41920826.mp3
+Actual: A further high level German inquiry revealed more production and workmanship issues.
+Predicted:  A father high-level German employer revealed more production and workmanship issues.
+
+Clip: common_voice_en_41944971.mp3
+Actual: Other tours followed, including stints with The Connells and The Charlatans.
+Predicted:  All the tools followed including string with the colors and the charlatans.
+
+Clip: common_voice_en_41945164.mp3
+Actual: The names were drawn from locations near the discovering Algiers Observatory.
+Predicted:  The names were drawn from locations near the discovering all GS Observatory.
+
+Clip: common_voice_en_41944883.mp3
+Actual: The field itself consisted of natural grass grown in Crestline, Ohio.
+Predicted:  The field itself consisted of natural cross-growing, chested Ohio.
+
+Clip: common_voice_en_42693677.mp3
+Actual: After months of hospitalisation, he was shipped home to Canada.
+Predicted:  After months of hospitalization, he was shipped home to Canada.
+
+Clip: common_voice_en_42133056.mp3
+Actual: For now, we’re simply looking for individuals interested in being part of this community.
+Predicted:  For now we are simply looking for individuals interested in being part of this community.
+

@@ -1,0 +1,248 @@
+Clip: common_voice_en_42463192.mp3
+Actual: Micheel was born in Orlando, Florida.
+Predicted:  Michael was born in Orlando, Florida.
+
+Clip: common_voice_en_41923048.mp3
+Actual: Knowledge of folklore is the coin of the realm of academic mathematics.
+Predicted:  Knowledge of Folk lore is the coin of the realm of academic mathematics.
+
+Clip: common_voice_en_42691355.mp3
+Actual: Robinson is the lead vocalist and songwriter of the band, Leon and the Peoples.
+Predicted:  and songwriter for Ben, Belia and the Beatles.
+
+Clip: common_voice_en_42455103.mp3
+Actual: This interaction effect can be described by modelling the dependence structure.
+Predicted:  This interaction effect can be described by modeling the dependence structure.
+
+Clip: common_voice_en_42455849.mp3
+Actual: In zeugma, a word is used in two different ways within the same sentence.
+Predicted:  In the Oguma, our word is used in two different ways within the same sentence.
+
+Clip: common_voice_en_42682619.mp3
+Actual: The main dock is called Muella Banderas.
+Predicted:  ain't dark is calledkick Mozilla thunderblick
+
+Clip: common_voice_en_42312780.mp3
+Actual: A parochial elementary school in Dayton is also named after Archbishop Liebold.
+Predicted:  A paro-call elementary school in Dayton is also named after Archbishop Leibolt.
+
+Clip: common_voice_en_42619570.mp3
+Actual: Eddie Edwards recalled Rag Baby was a magnificent drummer...
+Predicted:  Eddie Edwards recalled Ragababy was a magnificent drummer.
+
+Clip: common_voice_en_42421162.mp3
+Actual: His garments are well-draped, and well-tied at the waist.
+Predicted:  His garments are well draped and well tied at the waist.
+
+Clip: common_voice_en_42116382.mp3
+Actual: Secondary education institutions include elementary schools and high schools.
+Predicted:  Secondary Education Institutes include elementary schools and high schools.
+
+Clip: common_voice_en_42691358.mp3
+Actual: We're in the rock and roll business.
+Predicted:  but in the wrong road business.
+
+Clip: common_voice_en_42312597.mp3
+Actual: The Act was supported by British representatives such as Ramsay MacDonald.
+Predicted:  The act was supported by British representatives such as Ramsey McDonald.
+
+Clip: common_voice_en_42238818.mp3
+Actual: However, demand from customers drove McLaren to build two production versions that were sold.
+Predicted:  However, demand customers drove McLaren to build two production versions that were sold.
+
+Clip: common_voice_en_42485672.mp3
+Actual: The building was made of brick but also used reinforced concrete structures.
+Predicted:  The building was made of brick, but also used to reinforce concrete structures.
+
+Clip: common_voice_en_42485851.mp3
+Actual: The differences between flies and mammals that account for this difference are not known.
+Predicted:  The differences between flies and mamas that account for this difference are not known.
+
+Clip: common_voice_en_42455357.mp3
+Actual: One year later the novel "Rasmus and the Vagabond" was published.
+Predicted:  One year later the novel Rasmus and Vagabond was published.
+
+Clip: common_voice_en_41971861.mp3
+Actual: In the French Camargue, riders called "gardians" herd cattle and horses.
+Predicted:  In the French Commog, writers called guardians heard cattle and horses.
+
+Clip: common_voice_en_42691382.mp3
+Actual: The sons of the first duke raised the family to its greatest fame.
+Predicted:  but some to the first dude raise that family insurance greatest thing
+
+Clip: common_voice_en_42147031.mp3
+Actual: Or visit nearby Sudak and discover its medieval fortress and sandy beaches.
+Predicted:  We are busy nearby the dark and discover its medieval wood fortress and sandy beach.
+
+Clip: common_voice_en_42463197.mp3
+Actual: This was reflected in its original on-screen presentation which featured groups of threes.
+Predicted:  This was reflected in its original on-screen presentation, which featured groups of trees.
+
+Clip: common_voice_en_41971264.mp3
+Actual: Another crime drama, "Animal Kingdom", is filmed and set in Oceanside.
+Predicted:  Another crime drama, Animal Kingdom is filmed and set in ocean side.
+
+Clip: common_voice_en_42421032.mp3
+Actual: He is also known from Ebla as "Kamish".
+Predicted:  He is also known from Ebla as Comish.
+
+Clip: common_voice_en_42455020.mp3
+Actual: Despite this bright colouring, the angular markings provide excellent disruptive patterning camouflage.
+Predicted:  Despite this bright coloring, the angular markings provide excellent disruptive patterning camouflage.
+
+Clip: common_voice_en_42485534.mp3
+Actual: Folha has been convicted in court several times for the content it has published.
+Predicted:  Fauha has been convinced in court several times for the content it has published.
+
+Clip: common_voice_en_42691360.mp3
+Actual: He now plays five-eighth for Tannum Sands Gullaz.
+Predicted:  In our place, 5-8 for 10 of sales covers.
+
+Clip: common_voice_en_42485754.mp3
+Actual: Royce's first international store opened that month, in Singapore.
+Predicted:  Rises first international store opened that month in Singapore.
+
+Clip: common_voice_en_42455548.mp3
+Actual: The aforementioned performance received positive reviews.
+Predicted:  The after-mentioned performance received positive reviews.
+
+Clip: common_voice_en_41923257.mp3
+Actual: Its title derives from the theological tradition of the "philosophia perennis".
+Predicted:  Its title derives from the theological tradition of the philosophy of Pyramenace.
+
+Clip: common_voice_en_42485671.mp3
+Actual: There are three official Michigan historical markers in the county.
+Predicted:  There are three official Michigan historical markets in the county.
+
+Clip: common_voice_en_42238573.mp3
+Actual: The city is home to the TimkenSteel Corporation, a major manufacturer of specialty steel.
+Predicted:  The city is home to the Temkin Steel Corporation, a major manufacturer of specialty steel.
+
+Clip: common_voice_en_42399678.mp3
+Actual: It maintained a significant library however, almost nothing remains.
+Predicted:  It maintains a significant library, however almost nothing remains.
+
+Clip: common_voice_en_42485808.mp3
+Actual: The Main Stem is located in the eastern part of Hunan.
+Predicted:  The main team is located in the eastern part of Hunan.
+
+Clip: common_voice_en_42455248.mp3
+Actual: Dedicated fell runners attempt to hike all twelve peaks in a single day.
+Predicted:  Dedicated fellow runners attempt to hike all 12 peaks in a single day.
+
+Clip: common_voice_en_42312549.mp3
+Actual: However, many residents have persevered and kept Aklavik as a community.
+Predicted:  However, many residents have preserved and kept Aklaviq as a community.
+
+Clip: common_voice_en_42516933.mp3
+Actual: The site of the battle is now Paulding County High School.
+Predicted:  The site of the battle is now Paulting County High School.
+
+Clip: common_voice_en_41977259.mp3
+Actual: Rolling the orbiter to balance temperatures around the orbiter resolved the issue.
+Predicted:  Rolling the orbiter to balance temperatures around the orbiter results the issue.
+
+Clip: common_voice_en_42485550.mp3
+Actual: Arcadia Valley High School is a small, rural school.
+Predicted:  Arkada Valley High School is a small rural school.
+
+Clip: common_voice_en_42238843.mp3
+Actual: He has a tattoo of the Greater Mark of Making on his right arm.
+Predicted:  He has due of the greater mark of making on his right arm.
+
+Clip: common_voice_en_42691380.mp3
+Actual: He added a further five during the campaign, being a regular starter.
+Predicted:  Yet another five-jewd campaign being a regular side.
+
+Clip: common_voice_en_42238695.mp3
+Actual: His family came from Hebei Province.
+Predicted:  His family came from Hebe province.
+
+Clip: common_voice_en_42463109.mp3
+Actual: In the intervening period the Severn Railway Bridge from Sharpness to Lydney was opened.
+Predicted:  In the intervening period, the Severn Array will bridge from sharpness to Lindy was opened.
+
+Clip: common_voice_en_42246803.mp3
+Actual: Ossian is a figure in Celtic mythology.
+Predicted:  Occien is a figure in Celtic mythology.
+
+Clip: common_voice_en_42455750.mp3
+Actual: These varieties are known as "free-threshing" or "naked".
+Predicted:  These varieties are known as free threshing or naked.
+
+Clip: common_voice_en_42485814.mp3
+Actual: Thus the name Unterdonaukreis changed to Lower Bavaria.
+Predicted:  Thus the name Anterdón now carries change to Lower Bavaria.
+
+Clip: common_voice_en_42485647.mp3
+Actual: Later, he learnt to play the piano as well.
+Predicted:  Later, he learned to play the piano as well.
+
+Clip: common_voice_en_42399895.mp3
+Actual: Some of the clusters can be obtained by planned synthesis.
+Predicted:  Some of the clusters can be obtained by plants and isles.
+
+Clip: common_voice_en_42591253.mp3
+Actual: Ottringham contains two public houses and a service garage.
+Predicted:  Tremel- Gonzate administrator
+
+Clip: common_voice_en_42686114.mp3
+Actual: It is not known when he returned to Mani.
+Predicted:  It was not known when he returned to many.
+
+Clip: common_voice_en_42454955.mp3
+Actual: Holloway lives in Edinburgh with his American-born wife Jean.
+Predicted:  Holloway lives in Edinburgh with his American born wife Jean.
+
+Clip: common_voice_en_42575121.mp3
+Actual: It is bounded by other communes of Mazzano, Lonato and Bedizzole.
+Predicted: 
+
+Clip: common_voice_en_42147639.mp3
+Actual: Additionally, learning a new language can improve travel experiences.
+Predicted:  Additionally, running a new language can improve travel experience.
+
+Clip: common_voice_en_41949449.mp3
+Actual: The two had worked together previously on Kool Keith's "Project Polaroid".
+Predicted:  The two had worked together previously on Cool Geath's project Polaroid.
+
+Clip: common_voice_en_42455851.mp3
+Actual: From an early on in his career Harding was a successful and popular teacher.
+Predicted:  From an early on his career, Harding was successful and popular teacher.
+
+Clip: common_voice_en_41923029.mp3
+Actual: In contrast to the Pick Plan, Sloan's strategy was more intricate.
+Predicted:  In contrast to the pick plan, Sloan strategy was more intricate.
+
+Clip: common_voice_en_41971780.mp3
+Actual: His father was an accordionist and bandleader.
+Predicted:  His father was an accordionist and band leader.
+
+Clip: common_voice_en_42682622.mp3
+Actual: The ghost town of Mayhews was also located in the town.
+Predicted:  But the ghost time of Mayuse was also located in the town.
+
+Clip: common_voice_en_42038018.mp3
+Actual: Murrawarri people - see Murrawarri Republic and Murawari language.
+Predicted:  Marawari people see Marawari Republic and Marawari language.
+
+Clip: common_voice_en_42056178.mp3
+Actual: The last child was also a boy, fair and bonny.
+Predicted:  The last child was also a boy, fair and bony.
+
+Clip: common_voice_en_41984160.mp3
+Actual: It was defeated when Big O turned its own energized claws against itself.
+Predicted:  It was defeated when Big O turned its own energised claws against itself.
+
+Clip: common_voice_en_42399854.mp3
+Actual: He was known for his exploits with a lancet.
+Predicted:  It was known for its exploits with the Lancet.
+
+Clip: common_voice_en_41923271.mp3
+Actual: He was survived by his wife, Hazel Vernon.
+Predicted:  He was survived by his wife, Hansel Vernon.
+
+Clip: common_voice_en_42516883.mp3
+Actual: The local mandarin, a man of sense and humanity, forbade the custom.
+Predicted:  Local Mandarin, a man of sense and humanity, forbade the custom.
+
