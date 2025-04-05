@@ -121,7 +121,9 @@ Actual: The rebranding process was referred internally to as Project Hyphen.
 Predicted:  There were branding proxies which referred internally towards Project I-Thin.
 
 #### Data:
-Our test data set is from CommonVoice [2], a collection of crowd sourced audio clips from online contributors.
+Our test data set is from CommonVoice [2], it is a collection of crowd sourced audio clips from online contributors. We used the most recent delta segment of this. Not all clips from this data set were used, we opted not to use the reported clips as users had already marked the transcriptions of those as being incorrect or marked the sentences as offensive. 
+
+Initially, we ran a Whisper base version on 200 clips randomly selected from the validated slit of the data. Then to analyze the differences in WER among age groups, we took a random split of 100 clips from each group and computed the error rate for each of them.
 
 #### Limitations:
 The test data set has no specific domain, our goal for the future is to extract medical context specific data from the CommonVoice corpus of data because it is labelled for sex, accent and age already. The data in the CommonVoice dataset is not all taken from speakers’ natural environments, most voice clips are audio recordings of people reading a given sentence. This could lower the ecological validity of our study. 
