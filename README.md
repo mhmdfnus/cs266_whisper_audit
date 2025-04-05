@@ -7,11 +7,11 @@ A good audit target begins with a hypothesis, or at least an interest in a quest
 
 ### Research Interest:
 
-Whisper AI is an open source word speech recognition model, released by OpenAI. Currently, it’s being used extensively in hospitals [1], and given the sensitive environment, it is critical that it is done in a way that minimizes harm as much as possible. There is evidence that it hallucinates, especially in medical contexts [9] [10] [11]. We seek to test the accuracy of the model and the feasibility of deploying it in the real world, especially in sensitive contexts like hospitals. This pilot study focuses on how accurate Whisper transcriptions are across age groups, using word error rates (WER) as our evaluation metric.
+Whisper AI is an open source word speech recognition model, released by OpenAI. Currently, it is being used extensively in hospitals [1], and given the sensitive nature of a hospital environment, it is critical that this deoployment is done in a way that minimizes harm as much as possible. There is evidence that Whisper hallucinates, especially in medical contexts [9] [10] [11]. We seek to test the accuracy of the model and the feasibility of deploying it in the real world, especially in sensitive contexts like hospitals. This pilot study focuses on how accurate Whisper transcriptions are across age groups, using word error rates (WER) as our evaluation metric.
 
 We define hallucinations as words generated that were never there, this is different from misheard words which are words that were present in the actual recording and it was possible to hear them wrongly.
 
-Our WER does not differentiate between these for our quantitative analysis but we do assess hallucinations in our qualitative analysis.
+Our WER does not differentiate between these for our quantitative analysis but we assess hallucinations in our qualitative analysis.
 
 ### Audit target:
 
@@ -45,11 +45,11 @@ Whisper is intended for general-purpose speech recognition and translation. It s
 
 
 #### Factors:
-Performance may vary across languages, accents, age groups, sex, background noise conditions, and audio quality. Although Whisper is trained on a multilingual dataset, it is optimized for English transcription. We use the base and turbo models for our analysis, analysing English transcription only. We do this because it is the primary way Whisper is being used in the natural context and if we can identify harms caused by inaccurate transcriptions, we may be able to create frameworks minimizing those harms while leveraging this in ways that bring the most benefit.
+Performance may vary across languages, accents, age groups, sex, background noise conditions, and audio quality. Although Whisper is trained on a multilingual dataset, it is optimized for English transcription. We use the base and turbo models for our analysis, analysing English transcription only. We do this because it is the primary way Whisper is being used in the natural context and if we can identify harms caused by inaccurate transcriptions, we may be able to create frameworks minimizing those harms while leveraging the model for its benefits.
 
 #### Metrics:
 
-The performance of the Whisper model is generally measured using word error rate (WER), which calculates the rate of insertion, deletion, and substitution errors in the predicted transcription relative to a ground truth reference. This metric is widely used in the automatic speech recognition (ASR) community. Researchers using the model in specific contexts may consider supplementing WER with domain-specific metrics. At this point, we will rely on WER as our main metric and we may implement and use other domain-specific metrics if found appropriate in the future checkpoints of our audit.  
+The performance of the Whisper model is generally measured using word error rate (WER), which calculates the rate of insertion, deletion, and substitution errors in the predicted transcription relative to a ground truth reference. This metric is widely used in the automatic speech recognition (ASR) community. Researchers using the model in specific contexts may consider supplementing WER with domain-specific metrics. For the pilot study, we used WER as the sole metric and we intend to implement and use other domain-specific metrics if found appropriate in future checkpoints of our audit.  
 
 OpenAI evaluated Whisper on a multilingual and multitask benchmark composed of existing ASR datasets across a range of languages and conditions. These include LibriSpeech, Common Voice, TED-LIUM, and others. The choice of datasets was intended to reflect realistic and varied use cases, with differences in speaker identity, background noise, and audio recording quality. Minimal preprocessing was applied to ensure diversity and representativeness of audio input. The evaluation datasets were selected to test the model’s generalization capabilities rather than its performance on narrow or overfitted domains.
 
@@ -85,13 +85,13 @@ Where:
 – N = total number of words in the reference (actual) sentence
 
 
-Our independent variable is the label for age. The dataset is already labelled for age, so we simply counted the WER for each age group. For standardization, we only counted the error rate in 100 random instances for each age group. Curiously, the data set did not have any entries for voice recorded by people in their forties so that age group has been removed in the analysis.
+Age group is our independent variable. The dataset is already labelled for age, so we simply counted the WER for each age group. For standardization, we only counted the error rate in 100 random instances for each age group. Curiously, the data set did not have any entries for voice recorded by people in their forties so that age group has been removed in the analysis.
 
 
 #### Confounding variables: 
 Sentence length, context of audio clip, sex, accent are not controlled for.
 
-Due to the range of accents in CommonVoice, keeping accent random controls for any confounding the variation in accent may have on the accuracy of results.
+Due to the range of accents in CommonVoice, keeping accent random controls for any confounding effect the variation in accent may have on the accuracy of results.
 
 This specific section of the CommonVoice dataset is imbalanced for sex, with more male voices than female voices and this may have a confounding effect on our study. In the future, we plan to test separately for both and compare the rate of errors to see if there is a difference between transcription accuracy. OpenAI states that whisper has been trained on data from the internet, and if there is an imbalance in male and female voices in the data set, this can create a model that is better suited to transcribe one or the other.
 
@@ -99,14 +99,11 @@ This specific section of the CommonVoice dataset is imbalanced for sex, with mor
 Since there is documented evidence of Whisper “hallucinating”, we decided to qualitatively assess the differences in generated transcripts and actual transcripts. We did this by first running the base model on two different audios that had faint background noise but no dialogue. The first clip is a 20 second clip, and the second clip is approximately a minute long. In both cases the base model did not return any output. Doing the same with the turbo model however, did result in hallucinations. It appears that the larger more optimized model has a greater tendency to hallucinate. It is also interesting to note that although the turbo model hallucinated more, the base model had more “misheard” words, and therefore a greater WER.
 The turbo version hallucinated “You” on the 20 second clip, and hallucinated “Thank you. Thank you. Thank you.” on the 1 minute clip.
 
-When running the turbo model on a split of 200 randomly chosen clips from the CommonVoice data set we observed some hallucinations. The following is a small list of hallucinations we have picked to demonstrate this effect.
+When running the turbo model on a split of 200 randomly chosen clips from the CommonVoice data set we observed some hallucinations. The following is a small list of hallucinations we have picked to demonstrate this.
 
 Clip: common_voice_en_41944826.mp3
 Actual: Sharity-Light runs in user space rather than kernel space.
 Predicted:  I'll show you the log advance in userspace rather than kernelspace.
-Clip: common_voice_en_41917519.mp3
-Actual: Their greatest chart success came with their summer hit single "I Love You".
-Predicted:  The greatest child's success came with the summer heat singer, I Love You.
 
 Clip: common_voice_en_42251480.mp3
 Actual: Some outside scholars examining the system in depth disagree with the "official" results.
@@ -120,15 +117,19 @@ Clip: common_voice_en_41962071.mp3
 Actual: The rebranding process was referred internally to as Project Hyphen.
 Predicted:  There were branding proxies which referred internally towards Project I-Thin.
 
-#### Data:
-Our test data set is from CommonVoice [2], it is a collection of crowd sourced audio clips from online contributors. We used the most recent delta segment of this. Not all clips from this data set were used, we opted not to use the reported clips as users had already marked the transcriptions of those as being incorrect or marked the sentences as offensive. 
+The hallucination of sulphate and chloride sodium water is particularly interesting, Whisper appears to have invented chemical names. This hints that the model mighy not do so well with jargon.
 
-Initially, we ran a Whisper base version on 200 clips randomly selected from the validated slit of the data. Then to analyze the differences in WER among age groups, we took a random split of 100 clips from each group and computed the error rate for each of them.
+#### Data:
+Our test data set is from CommonVoice [2], it is a collection of crowd sourced audio clips from online contributors. We used the most recent delta segment of this. Not all clips from this data set were used, we opted not to use the clips in the reported split as users had already marked the transcriptions of those as being incorrect or marked the sentences as offensive. 
+
+Initially, we ran the base Whisper model on 200 clips randomly selected from the validated slit of the data and checked the WER rate on those as the base line. 
+
+Then to analyze the differences in WER among age groups, we took a random split of 100 clips from each group and computed the error rate for each of them.
 
 #### Limitations:
-The test data set has no specific domain, our goal for the future is to extract medical context specific data from the CommonVoice corpus of data because it is labelled for sex, accent and age already. The data in the CommonVoice dataset is not all taken from speakers’ natural environments, most voice clips are audio recordings of people reading a given sentence. This could lower the ecological validity of our study. 
-We plan to run the turbo model on a bigger split which has fewer misheard errors according to OpenAI. Since we were running Whisper on approximately 1 GB of data, we had CPU limitations. Future work will include running on a cloud computing service, specifically Google Colab and running the turbo version on a larger corpus of data.
-The comparison process can be improved. Differences between American and British spelling are being counted as mismatches between the actual and generated transcripts which can be confounding the results of the study. This can be improved for greater validity of our results.
+The test data set has no specific domain, our goal for the future is to extract medical context specific data from the CommonVoice (CV) corpus of data. We chose CV because it is labelled for sex, accent and age already. The data in the CommonVoice dataset is not all taken from speakers’ natural environments, most voice clips are audio recordings of people reading a given sentence. This could lower the ecological validity of our study. On the other hand, the size of the data set, combined with its robust labelling makes it easier to generalize our results, which in turn increases ecological validity.
+We plan to run the turbo model on a bigger split which has fewer misheard errors (according to OpenAI). We chose the turbo model because of it being the default, having a larger number of parameters and relatively lower run time. Since we were running Whisper on approximately 800 MBs of data (from CV) locally on our computers, we had very large run times. To run the model locally, we had to use the base version. This constraint is due to CPU limitations. Future work will include running on a cloud computing service, specifically Google Colab and running the turbo version on a larger corpus of data to achieve greater validity.
+The comparison process can be improved. Differences between American and British spelling are being counted as mismatches between the actual and generated transcripts which can be confounding the results of the study. This lowers the internal validity of our study. This can be improved for greater validity of our results.
 
 #### References:
 
